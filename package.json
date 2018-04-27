@@ -1,6 +1,6 @@
 {
   "name": "callbag-element-at",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "👜 Callbag operator that emits the single value at the specified index.",
   "main": "dist/callbag-element-at.js",
   "module": "dist/callbag-element-at.es.js",
