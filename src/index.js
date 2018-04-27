@@ -26,6 +26,7 @@ export default function elementAt(index, defaultValue) {
           return
         }
         completed = true
+        talkback(2)
         sink(1, data)
         sink(2)
         return
