@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`throws on invalid index 1`] = `"Argument out of range."`;
+
+exports[`throws on out of range index 1`] = `"Argument out of range."`;
